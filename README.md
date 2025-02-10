@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> c060f846 (Initial commit)
 # Stark Products
 
 This is the e-commerce website for **Stark Products**, selling die-cast cars, anime action figures, watches, accessories, shoes, and fashion items.
